@@ -1,4 +1,8 @@
 # multilingual-chatbot
 
 ### [시연]
-![시연](https://user-images.githubusercontent.com/52301388/106772941-df6acf00-6683-11eb-85e4-7844a31a5c61.JPG)
+![시연](https://user-images.githubusercontent.com/52301388/106836124-e6253080-66db-11eb-9644-d8cf6214bcdd.JPG)
+
+
+### updates
+#### 0204: serial number 정보 질의-답변 추가
